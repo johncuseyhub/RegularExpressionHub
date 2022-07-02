@@ -8,6 +8,7 @@
 * [Regex Pal](https://www.regexpal.com/)    
 
 # References  
+* [w3schools](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)   
 * [Learn Regular Expressions (Regex) - Crash Course for Beginners - YouTube - freeCodeCamp - Beau Carnes](https://www.youtube.com/watch?v=ZfQFUJhPqMM)  
 * [Everything You Need to Know About Regular Expressions In JavaScript - Lucas F. Costa](https://lucasfcosta.com/2016/12/25/Regular-Expressions-in-JavaScript-Part-Two.html)
 * [Session 2: Regular Expressions - Programming with Text - YouTube - The Coding Train - Sam Lavigne](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
