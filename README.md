@@ -9,7 +9,9 @@
 
 # Repositories    
 * LearnRegularExpressions        
-   * [Learn Regular Expressions (Regex) - Crash Course for Beginners - YouTube - freeCodeCamp - Beau Carnes](https://www.youtube.com/watch?v=ZfQFUJhPqMM) 
+   * [Learn Regular Expressions (Regex) - Crash Course for Beginners - YouTube - freeCodeCamp - Beau Carnes](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
+* Lookaround     
+   * [Regular expressions: lookaround assertions by example - Blog - Deep JavaScript](https://exploringjs.com/deep-js/ch_regexp-lookaround-assertions.html)
 # References  
 * [w3schools](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)   
  
